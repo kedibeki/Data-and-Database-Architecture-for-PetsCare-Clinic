@@ -15,11 +15,7 @@ Project Background
 </h2>
 
  <h4>
-PetsCare is a local clinic that offers care for animals, such as vaccinations, medical services, spay and neuter surgery, dental cleaning and treatment, grooming, and other services. Over the course of more than 20 years, PetsCare has successfully operated as a business while serving the community.
- 
- 
-<br>
-
+PetsCare is a local clinic that offers care for animals, such as vaccinations, medical services, spay and neuter surgery, dental cleaning and treatment, grooming, and other services. Over the course of more than 20 years, PetsCare has successfully operated as a business while serving the community.   
  
 The current owner, Claire, who is also the company's founder's daughter, recently came to the conclusion that the outdated file system solution is incredibly ineffective. She and her team are required to put in a lot of time collecting records, requesting data, and maintaining the data.
  </h4>
